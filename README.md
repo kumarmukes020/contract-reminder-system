@@ -205,8 +205,7 @@ CREATE TABLE contracts (
 );
 Installation Steps
 1. Clone Project
-git clone https://github.com/yourusername/contract-reminder-system.git
-
+git clone (https://github.com/kumarmukes020/contract-reminder-system)
 Or download ZIP and extract into:
 
 C:\xampp\htdocs\
